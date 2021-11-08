@@ -7987,7 +7987,7 @@ html.menu-opened body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #0000004f;
+    background-color: #fff;
     z-index: 999999
 }
 
@@ -8005,7 +8005,7 @@ html.menu-opened body {
 .loader span {
     -webkit-animation: loader 1.3s linear infinite;
     animation: loader 1.3s linear infinite;
-    background-color: #025823;
+    background-color: #2c75e4;
     border-radius: 100%;
     display: inline-block;
     height: 50px;
